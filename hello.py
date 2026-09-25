@@ -1,6 +1,6 @@
 # This is our first Python program for learning Git.
 
-print("Hello, Git!")
+print("Hello from the main branch!")
 print("I am learning version control.")
 print("I am learning backend")
 
