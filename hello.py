@@ -11,3 +11,19 @@ print("This line was added directly on GitHub.")
 
 # This feature is being developed on a separate Git branch.
 print("I am working on the feature-greeting branch!")
+
+# This is unfinished work for our Git stash lesson.
+print("I am working on a new feature.")
+
+
+# This commit was created specifically to practice cherry-pick.
+print("Cherry-pick is selecting one specific commit.")
+
+# This change was created on the main branch.
+print("Change from the main branch.")
+
+# This change was created on the rebase-demo branch.
+print("Change from the rebase branch.")
+
+# This feature was created for our first GitHub Pull Request.
+print("Hello from my Pull Request feature!")
