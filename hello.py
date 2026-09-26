@@ -27,3 +27,6 @@ print("Change from the rebase branch.")
 
 # This feature was created for our first GitHub Pull Request.
 print("Hello from my Pull Request feature!")
+
+# This change improves the greeting message for Issue #2.
+print("Welcome to my Git and GitHub learning project!")
