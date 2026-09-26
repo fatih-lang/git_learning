@@ -11,3 +11,6 @@ venv/
 
 # Ignore temporary files
 *.tmp
+
+# Ignore our test secret file
+secret.txt
