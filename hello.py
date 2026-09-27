@@ -30,3 +30,8 @@ print("Hello from my Pull Request feature!")
 
 # This change improves the greeting message for Issue #2.
 print("Welcome to my Git and GitHub learning project!")
+
+
+def add_numbers(a, b):
+    # Add two numbers and return the result.
+    return a + b
